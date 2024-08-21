@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## 🛠️ Skills
+## 🛠️ Skills at work
 
 ### Languages
 
@@ -20,9 +20,10 @@
 
 ### Tools & System
 
-![neovim](https://img.shields.io/badge/neovim-262626?style=for-the-badge&logo=neovim)
-![postgres](https://img.shields.io/badge/postgresql-ffffff?style=for-the-badge&logo=postgresql)
-![bazel](https://img.shields.io/badge/bazel-e6e6e6?style=for-the-badge&logo=bazel)
+![neovim](https://img.shields.io/badge/neovim-10a900?style=for-the-badge&logo=neovim&logoColor=00fc53)
+![obsidian](https://img.shields.io/badge/obsidian-2b0067?style=for-the-badge&logo=obsidian&logoColor=9733ff)
+![postgres](https://img.shields.io/badge/postgresql-00b7ff?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![bazel](https://img.shields.io/badge/bazel-fdfdfd?style=for-the-badge&logo=bazel)
 
 ### Infura
 
