@@ -30,3 +30,8 @@
 ![docker](https://img.shields.io/badge/docker-262626?style=for-the-badge&logo=docker)
 ![kubernetes](https://img.shields.io/badge/kubernetes-ffffff?style=for-the-badge&logo=kubernetes&logoColor=#243c80)
 ![crossplane](https://img.shields.io/badge/crossplane-59e5cc?style=for-the-badge&logo=crossplane)
+
+## Certificate
+
+- [CKAD](https://www.cncf.io/training/certification/ckad/)
+- [CKA](https://www.cncf.io/training/certification/cka/)
